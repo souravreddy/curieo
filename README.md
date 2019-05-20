@@ -11,3 +11,4 @@ Steps the involve the working of the application
 •	The 2nd tab has a button ,after clicking the button a spinner appears  with the list of audio file in the directory  that are stored in the device
 •	On selecting the file in the spinner and clicking the play button the selected audio plays and the audio can be stopped using the stop button 
 The project was completed using android studio.
+The application contains 2 fragments /tags the 1st tab is for recording the audio and playing the current audio file and the 2nd  tab is for playing the files that were recorded in previously 
