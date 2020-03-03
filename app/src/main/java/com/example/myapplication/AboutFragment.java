@@ -33,6 +33,7 @@ public class AboutFragment extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
 
 
+        System.out.println();
         b=(Button) view.findViewById(R.id.button);
         b1=(Button) view.findViewById(R.id.button3);
         b2=(Button) view.findViewById(R.id.button4);
