@@ -34,7 +34,7 @@ public class AboutFragment extends Fragment {
 
 
         System.out.println();
-        b=(Button) view.findViewById(R.id.button);
+       //b=(Button) view.findViewById(R.id.button);
         b1=(Button) view.findViewById(R.id.button3);
         b2=(Button) view.findViewById(R.id.button4);
         final Spinner sItems = (Spinner) view.findViewById(R.id.spinner);
