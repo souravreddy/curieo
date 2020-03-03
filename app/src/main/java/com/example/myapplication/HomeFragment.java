@@ -37,7 +37,7 @@ public class HomeFragment extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
 
         System.out.print("hkhf");
-        startbtn = (Button) view.findViewById(R.id.btnRecord);
+        //startbtn = (Button) view.findViewById(R.id.btnRecord);
         stopbtn = (Button) view.findViewById(R.id.btnStop);
         playbtn = (Button) view.findViewById(R.id.btnPlay);
         stopplay = (Button) view.findViewById(R.id.btnStopPlay);
